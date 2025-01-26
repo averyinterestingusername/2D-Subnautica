@@ -1,0 +1,20 @@
+{
+    "children": [
+        {
+            "type": "chunk",
+            "state": {
+                "children": [],
+                "image_path": "saves/current_save/chunk_col_-2/chunk_row_-2/chunk.png",
+                "element_path": "resources/templates/air.png",
+                "world_position": [
+                    0,
+                    -270
+                ],
+                "chunk_grid_position": [
+                    0,
+                    -2
+                ]
+            }
+        }
+    ]
+  }
