@@ -1,0 +1,20 @@
+{
+  "children": [
+      {
+          "type": "",
+          "state": {
+              "children": [],
+              "image_path": "",
+              "speeds": [
+                  
+              ],
+              "world_position": [
+                  
+              ],
+              "chunk_grid_position": [
+                  
+              ]
+          }
+      }
+  ]
+}
