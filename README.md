@@ -27,4 +27,4 @@ Always:
 - Ctrl + d to delete one of your saved games (pls don't delete game files)
 - Alt + Enter to enter fullscreen mode (performance issues)
 
-I apologise for the lack of a playable game online, but I spent hours trying to get it to work, and it doesn't, and I'm fed up, and I'm exhausted, so a video will have to do.
+I apologise for the lack of a playable demonstration, but I spent hours trying to get it to work, and it doesn't, so a video will have to do.
