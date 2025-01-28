@@ -29,4 +29,15 @@ Other controls:
 - Ctrl + d to delete one of your saved games (pls don't delete game files)
 - Alt + Enter to enter fullscreen mode (performance issues)
 
-I apologise again for the lack of a playable demonstration, but I spent hours trying to get it to work, and it doesn't, so a video will have to do.
+## Features
+
+The game is based on rendering chunks, which I implemented myself. 
+You can either be in water or air; with different physics for both states. 
+There is precise collision with the map, and an oxygen meter (though nothing happens when you run out (yet)). 
+Also present are ways to save and load your games. 
+
+There are still many improvements I want to introduce.
+
+I'm also trying to use as many design patterns as possible. :)
+
+### I apologise again for the lack of a playable demonstration, but I spent hours trying to get it to work, and it doesn't, so a video will have to do.
