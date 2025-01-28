@@ -2,6 +2,8 @@
 
 Hello! I like Subnautica, and I've wanted to program a game for a while now.
 
+### I really wanted the demo to be a playable game, and I spent many hours trying to get it to work, but I couldn't. If you want to play the game yourself, please follow the instructions.
+
 ## Instructions
 
 Make sure you can run python files.
